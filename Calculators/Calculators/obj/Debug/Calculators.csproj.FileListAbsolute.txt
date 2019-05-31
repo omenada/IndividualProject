@@ -1,0 +1,11 @@
+C:\Projects_Dani\Calculators\Calculators\Calculators\bin\Debug\Calculators.exe.config
+C:\Projects_Dani\Calculators\Calculators\Calculators\bin\Debug\Calculators.exe
+C:\Projects_Dani\Calculators\Calculators\Calculators\bin\Debug\Calculators.pdb
+C:\Projects_Dani\Calculators\Calculators\Calculators\obj\Debug\Calculators.csprojAssemblyReference.cache
+C:\Projects_Dani\Calculators\Calculators\Calculators\obj\Debug\Calculators.Form1.resources
+C:\Projects_Dani\Calculators\Calculators\Calculators\obj\Debug\Calculators.Properties.Resources.resources
+C:\Projects_Dani\Calculators\Calculators\Calculators\obj\Debug\Calculators.csproj.GenerateResource.cache
+C:\Projects_Dani\Calculators\Calculators\Calculators\obj\Debug\Calculators.csproj.CoreCompileInputs.cache
+C:\Projects_Dani\Calculators\Calculators\Calculators\obj\Debug\Calculators.exe
+C:\Projects_Dani\Calculators\Calculators\Calculators\obj\Debug\Calculators.pdb
+C:\Projects_Dani\Calculators\Calculators\Calculators\obj\Debug\Calculators.Form2.resources
