@@ -43,7 +43,7 @@
             this.txtinput.Name = "txtinput";
             this.txtinput.Size = new System.Drawing.Size(218, 20);
             this.txtinput.TabIndex = 0;
-            this.txtinput.TextChanged += new System.EventHandler(this.Txtinput_TextChanged);
+          
             // 
             // rbMilestoKil
             // 
@@ -121,7 +121,9 @@
             this.Controls.Add(this.rbKiltoMiles);
             this.Controls.Add(this.rbMilestoKil);
             this.Controls.Add(this.txtinput);
+            this.MaximizeBox = false;
             this.Name = "Form2";
+            this.RightToLeftLayout = true;
             this.Text = "Distance Converter";
             this.ResumeLayout(false);
             this.PerformLayout();

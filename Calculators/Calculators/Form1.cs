@@ -77,9 +77,11 @@ namespace Calculators
 
         private void BtnMenu_Click(object sender, EventArgs e)
         {
+            Form1 fr1 = new Form1();
+            fr1.Close();
             Form3 fr3 = new Form3();
-            fr3.Close();
-            System.Environment.Exit(1);
+            fr3.Show();
+            //System.Environment.Exit(1);
         }
     }
 }

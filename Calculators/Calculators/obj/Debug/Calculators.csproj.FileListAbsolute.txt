@@ -21,3 +21,14 @@ C:\Projects\assinement 2\Calculators\Calculators\Calculators\obj\Debug\Calculato
 C:\Projects\assinement 2\Calculators\Calculators\Calculators\obj\Debug\Calculators.csproj.GenerateResource.cache
 C:\Projects\assinement 2\Calculators\Calculators\Calculators\obj\Debug\Calculators.csproj.CoreCompileInputs.cache
 C:\Projects\assinement 2\Calculators\Calculators\Calculators\obj\Debug\Calculators.Form1.resources
+C:\Projects_Dani\New folder\IndividualProject-master\IndividualProject-master\Calculators\Calculators\bin\Debug\Calculators.exe.config
+C:\Projects_Dani\New folder\IndividualProject-master\IndividualProject-master\Calculators\Calculators\bin\Debug\Calculators.exe
+C:\Projects_Dani\New folder\IndividualProject-master\IndividualProject-master\Calculators\Calculators\bin\Debug\Calculators.pdb
+C:\Projects_Dani\New folder\IndividualProject-master\IndividualProject-master\Calculators\Calculators\obj\Debug\Calculators.Form1.resources
+C:\Projects_Dani\New folder\IndividualProject-master\IndividualProject-master\Calculators\Calculators\obj\Debug\Calculators.Properties.Resources.resources
+C:\Projects_Dani\New folder\IndividualProject-master\IndividualProject-master\Calculators\Calculators\obj\Debug\Calculators.csproj.GenerateResource.cache
+C:\Projects_Dani\New folder\IndividualProject-master\IndividualProject-master\Calculators\Calculators\obj\Debug\Calculators.csproj.CoreCompileInputs.cache
+C:\Projects_Dani\New folder\IndividualProject-master\IndividualProject-master\Calculators\Calculators\obj\Debug\Calculators.exe
+C:\Projects_Dani\New folder\IndividualProject-master\IndividualProject-master\Calculators\Calculators\obj\Debug\Calculators.pdb
+C:\Projects_Dani\New folder\IndividualProject-master\IndividualProject-master\Calculators\Calculators\obj\Debug\Calculators.csprojAssemblyReference.cache
+C:\Projects_Dani\New folder\IndividualProject-master\IndividualProject-master\Calculators\Calculators\obj\Debug\Calculators.Form4.resources
